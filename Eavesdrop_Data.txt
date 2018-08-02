@@ -1,0 +1,500 @@
+Application Data, Application Data		Jul 24, 2018 14:22:09.378093000 India Standard Time	
+Who has 192.168.43.227? Tell 192.168.43.1		Jul 24, 2018 14:22:14.703030000 India Standard Time	
+192.168.43.227 is at 30:e3:7a:8a:e4:a9		Jul 24, 2018 14:22:14.703056000 India Standard Time	
+Application Data		Jul 24, 2018 14:22:18.180691000 India Standard Time	
+55001 → 443 [ACK] Seq=1 Ack=60 Win=65 Len=0		Jul 24, 2018 14:22:18.220770000 India Standard Time	
+55147 → 443 [FIN, ACK] Seq=1 Ack=1 Win=68 Len=0		Jul 24, 2018 14:22:18.232788000 India Standard Time	
+55130 → 443 [FIN, ACK] Seq=1 Ack=1 Win=65 Len=0		Jul 24, 2018 14:22:18.235765000 India Standard Time	
+55128 → 443 [FIN, ACK] Seq=1 Ack=1 Win=68 Len=0		Jul 24, 2018 14:22:18.235920000 India Standard Time	
+54918 → 443 [FIN, ACK] Seq=1 Ack=1 Win=63 Len=0		Jul 24, 2018 14:22:18.236126000 India Standard Time	
+55149 → 443 [FIN, ACK] Seq=1 Ack=1 Win=68 Len=0		Jul 24, 2018 14:22:18.236306000 India Standard Time	
+55109 → 443 [FIN, ACK] Seq=1 Ack=1 Win=63 Len=0		Jul 24, 2018 14:22:18.236424000 India Standard Time	
+55112 → 443 [FIN, ACK] Seq=1 Ack=1 Win=66 Len=0		Jul 24, 2018 14:22:18.236623000 India Standard Time	
+55120 → 443 [FIN, ACK] Seq=1 Ack=1 Win=67 Len=0		Jul 24, 2018 14:22:18.236695000 India Standard Time	
+54530 → 443 [FIN, ACK] Seq=1 Ack=1 Win=65 Len=0		Jul 24, 2018 14:22:18.236895000 India Standard Time	
+55127 → 443 [FIN, ACK] Seq=1 Ack=1 Win=65 Len=0		Jul 24, 2018 14:22:18.236976000 India Standard Time	
+55123 → 443 [FIN, ACK] Seq=1 Ack=1 Win=68 Len=0		Jul 24, 2018 14:22:18.237225000 India Standard Time	
+[TCP Retransmission] 55123 → 443 [FIN, ACK] Seq=1 Ack=1 Win=68 Len=0		Jul 24, 2018 14:22:18.541375000 India Standard Time	
+[TCP Retransmission] 55128 → 443 [FIN, ACK] Seq=1 Ack=1 Win=68 Len=0		Jul 24, 2018 14:22:18.542880000 India Standard Time	
+[TCP Retransmission] 55127 → 443 [FIN, ACK] Seq=1 Ack=1 Win=65 Len=0		Jul 24, 2018 14:22:18.542988000 India Standard Time	
+[TCP Retransmission] 54530 → 443 [FIN, ACK] Seq=1 Ack=1 Win=65 Len=0		Jul 24, 2018 14:22:18.543036000 India Standard Time	
+Application Data		Jul 24, 2018 14:22:18.543356000 India Standard Time	
+443 → 55112 [FIN, ACK] Seq=64 Ack=1 Win=289 Len=0		Jul 24, 2018 14:22:18.543357000 India Standard Time	
+55112 → 443 [RST, ACK] Seq=2 Ack=64 Win=0 Len=0		Jul 24, 2018 14:22:18.543505000 India Standard Time	
+55112 → 443 [RST] Seq=1 Win=0 Len=0		Jul 24, 2018 14:22:18.543598000 India Standard Time	
+[TCP Retransmission] 55130 → 443 [FIN, ACK] Seq=1 Ack=1 Win=65 Len=0		Jul 24, 2018 14:22:18.577177000 India Standard Time	
+[TCP Retransmission] 55109 → 443 [FIN, ACK] Seq=1 Ack=1 Win=63 Len=0		Jul 24, 2018 14:22:18.578299000 India Standard Time	
+[TCP Retransmission] 55120 → 443 [FIN, ACK] Seq=1 Ack=1 Win=67 Len=0		Jul 24, 2018 14:22:18.613959000 India Standard Time	
+443 → 55130 [FIN, ACK] Seq=1 Ack=2 Win=300 Len=0		Jul 24, 2018 14:22:18.623935000 India Standard Time	
+55130 → 443 [ACK] Seq=2 Ack=2 Win=65 Len=0		Jul 24, 2018 14:22:18.624047000 India Standard Time	
+Standard query 0x152c A sa.bbc.co.uk		Jul 24, 2018 14:22:18.657394000 India Standard Time	
+443 → 55128 [FIN, ACK] Seq=1 Ack=2 Win=279 Len=0		Jul 24, 2018 14:22:18.674110000 India Standard Time	
+55128 → 443 [ACK] Seq=2 Ack=2 Win=68 Len=0		Jul 24, 2018 14:22:18.674222000 India Standard Time	
+Standard query 0xbdf0 A www.bbc.com		Jul 24, 2018 14:22:18.674986000 India Standard Time	
+[TCP Retransmission] 54918 → 443 [FIN, ACK] Seq=1 Ack=1 Win=63 Len=0		Jul 24, 2018 14:22:18.705698000 India Standard Time	
+Standard query 0xf7ef A logx.optimizely.com		Jul 24, 2018 14:22:18.919241000 India Standard Time	
+[TCP Retransmission] 443 → 55130 [FIN, ACK] Seq=1 Ack=2 Win=300 Len=0		Jul 24, 2018 14:22:19.101922000 India Standard Time	
+[TCP Retransmission] 443 → 55128 [FIN, ACK] Seq=1 Ack=2 Win=279 Len=0		Jul 24, 2018 14:22:19.101922000 India Standard Time	
+[TCP ZeroWindow] 55130 → 443 [ACK] Seq=2 Ack=2 Win=0 Len=0		Jul 24, 2018 14:22:19.101976000 India Standard Time	
+[TCP ZeroWindow] 55128 → 443 [ACK] Seq=2 Ack=2 Win=0 Len=0		Jul 24, 2018 14:22:19.102056000 India Standard Time	
+443 → 55149 [FIN, ACK] Seq=1 Ack=2 Win=253 Len=0		Jul 24, 2018 14:22:19.102118000 India Standard Time	
+[TCP Retransmission] 443 → 55112 [FIN, ACK] Seq=64 Ack=1 Win=289 Len=0		Jul 24, 2018 14:22:19.102119000 India Standard Time	
+55149 → 443 [ACK] Seq=2 Ack=2 Win=68 Len=0		Jul 24, 2018 14:22:19.102191000 India Standard Time	
+55112 → 443 [RST] Seq=1 Win=0 Len=0		Jul 24, 2018 14:22:19.102253000 India Standard Time	
+[TCP Retransmission] 55123 → 443 [FIN, ACK] Seq=1 Ack=1 Win=68 Len=0		Jul 24, 2018 14:22:19.142117000 India Standard Time	
+[TCP Retransmission] 55127 → 443 [FIN, ACK] Seq=1 Ack=1 Win=65 Len=0		Jul 24, 2018 14:22:19.143233000 India Standard Time	
+[TCP Retransmission] 54530 → 443 [FIN, ACK] Seq=1 Ack=1 Win=65 Len=0		Jul 24, 2018 14:22:19.143304000 India Standard Time	
+Standard query 0x152c A sa.bbc.co.uk		Jul 24, 2018 14:22:19.158385000 India Standard Time	
+Standard query 0xbdf0 A www.bbc.com		Jul 24, 2018 14:22:19.175388000 India Standard Time	
+[TCP Retransmission] 55109 → 443 [FIN, ACK] Seq=1 Ack=1 Win=63 Len=0		Jul 24, 2018 14:22:19.178831000 India Standard Time	
+Encrypted Alert		Jul 24, 2018 14:22:19.195920000 India Standard Time	
+Standard query response 0x152c A sa.bbc.co.uk CNAME bbc01.sitestat.com A 77.72.112.213 A 77.72.116.173 A 77.72.116.213 A 77.72.118.173 A 77.72.118.213		Jul 24, 2018 14:22:19.195922000 India Standard Time	
+443 → 55147 [FIN, ACK] Seq=32 Ack=2 Win=116 Len=0		Jul 24, 2018 14:22:19.195923000 India Standard Time	
+443 → 55109 [FIN, ACK] Seq=1 Ack=2 Win=310 Len=0		Jul 24, 2018 14:22:19.195923000 India Standard Time	
+[TCP Retransmission] 443 → 55130 [FIN, ACK] Seq=1 Ack=2 Win=300 Len=0		Jul 24, 2018 14:22:19.195924000 India Standard Time	
+[TCP Retransmission] 443 → 55149 [FIN, ACK] Seq=1 Ack=2 Win=253 Len=0		Jul 24, 2018 14:22:19.195924000 India Standard Time	
+[TCP Dup ACK 53#1] 443 → 55109 [ACK] Seq=2 Ack=2 Win=310 Len=0 SLE=1 SRE=2		Jul 24, 2018 14:22:19.195925000 India Standard Time	
+443 → 55127 [FIN, ACK] Seq=1 Ack=2 Win=251 Len=0		Jul 24, 2018 14:22:19.195925000 India Standard Time	
+[TCP Dup ACK 57#1] 443 → 55127 [ACK] Seq=2 Ack=2 Win=251 Len=0 SLE=1 SRE=2		Jul 24, 2018 14:22:19.195925000 India Standard Time	
+443 → 55120 [FIN, ACK] Seq=1 Ack=2 Win=279 Len=0		Jul 24, 2018 14:22:19.195926000 India Standard Time	
+[TCP Dup ACK 59#1] 443 → 55120 [ACK] Seq=2 Ack=2 Win=279 Len=0 SLE=1 SRE=2		Jul 24, 2018 14:22:19.195926000 India Standard Time	
+443 → 55123 [ACK] Seq=1 Ack=2 Win=276 Len=0 SLE=1 SRE=2		Jul 24, 2018 14:22:19.195927000 India Standard Time	
+443 → 55123 [FIN, ACK] Seq=1 Ack=2 Win=276 Len=0		Jul 24, 2018 14:22:19.195927000 India Standard Time	
+[TCP Out-Of-Order] 443 → 55109 [FIN, ACK] Seq=1 Ack=2 Win=310 Len=0		Jul 24, 2018 14:22:19.195928000 India Standard Time	
+55147 → 443 [RST, ACK] Seq=2 Ack=32 Win=0 Len=0		Jul 24, 2018 14:22:19.196159000 India Standard Time	
+55147 → 443 [RST] Seq=2 Win=0 Len=0		Jul 24, 2018 14:22:19.196353000 India Standard Time	
+55109 → 443 [ACK] Seq=2 Ack=2 Win=63 Len=0		Jul 24, 2018 14:22:19.196468000 India Standard Time	
+[TCP ZeroWindow] 55130 → 443 [ACK] Seq=2 Ack=2 Win=0 Len=0		Jul 24, 2018 14:22:19.196544000 India Standard Time	
+[TCP ZeroWindow] 55149 → 443 [ACK] Seq=2 Ack=2 Win=0 Len=0		Jul 24, 2018 14:22:19.196606000 India Standard Time	
+55127 → 443 [ACK] Seq=2 Ack=2 Win=65 Len=0		Jul 24, 2018 14:22:19.196701000 India Standard Time	
+55120 → 443 [ACK] Seq=2 Ack=2 Win=67 Len=0		Jul 24, 2018 14:22:19.196805000 India Standard Time	
+55123 → 443 [ACK] Seq=2 Ack=2 Win=68 Len=0		Jul 24, 2018 14:22:19.196908000 India Standard Time	
+[TCP ZeroWindow] 55109 → 443 [ACK] Seq=2 Ack=2 Win=0 Len=0		Jul 24, 2018 14:22:19.196981000 India Standard Time	
+55178 → 443 [SYN] Seq=0 Win=17520 Len=0 MSS=1460 WS=256 SACK_PERM=1		Jul 24, 2018 14:22:19.197525000 India Standard Time	
+55179 → 443 [SYN] Seq=0 Win=17520 Len=0 MSS=1460 WS=256 SACK_PERM=1		Jul 24, 2018 14:22:19.197544000 India Standard Time	
+55180 → 443 [SYN] Seq=0 Win=17520 Len=0 MSS=1460 WS=256 SACK_PERM=1		Jul 24, 2018 14:22:19.197599000 India Standard Time	
+[TCP Dup ACK 57#2] 443 → 55127 [ACK] Seq=2 Ack=2 Win=251 Len=0 SLE=1 SRE=2		Jul 24, 2018 14:22:19.213870000 India Standard Time	
+[TCP Dup ACK 61#1] 443 → 55123 [ACK] Seq=2 Ack=2 Win=276 Len=0 SLE=1 SRE=2		Jul 24, 2018 14:22:19.221586000 India Standard Time	
+[TCP Retransmission] 443 → 55127 [FIN, ACK] Seq=1 Ack=2 Win=251 Len=0		Jul 24, 2018 14:22:19.243058000 India Standard Time	
+Standard query response 0xbdf0 A www.bbc.com CNAME www-bbc-com.bbc.net.uk CNAME bbc.map.fastly.net A 151.101.156.81 NS ns1.fastly.net NS ns2.fastly.net NS ns3.fastly.net NS ns4.fastly.net		Jul 24, 2018 14:22:19.243059000 India Standard Time	
+[TCP ZeroWindow] 55127 → 443 [ACK] Seq=2 Ack=2 Win=0 Len=0		Jul 24, 2018 14:22:19.243164000 India Standard Time	
+55181 → 80 [SYN] Seq=0 Win=17520 Len=0 MSS=1460 WS=256 SACK_PERM=1		Jul 24, 2018 14:22:19.245438000 India Standard Time	
+[TCP Dup ACK 53#2] 443 → 55109 [ACK] Seq=2 Ack=2 Win=310 Len=0 SLE=1 SRE=2		Jul 24, 2018 14:22:19.246005000 India Standard Time	
+80 → 55181 [SYN, ACK] Seq=0 Ack=1 Win=28240 Len=0 MSS=1360 SACK_PERM=1 WS=512		Jul 24, 2018 14:22:19.315127000 India Standard Time	
+55181 → 80 [ACK] Seq=1 Ack=1 Win=17408 Len=0		Jul 24, 2018 14:22:19.315255000 India Standard Time	
+GET / HTTP/1.1 	http	Jul 24, 2018 14:22:19.316277000 India Standard Time	
+Standard query 0xf7ef A logx.optimizely.com		Jul 24, 2018 14:22:19.420006000 India Standard Time	
+80 → 55181 [ACK] Seq=1 Ack=1005 Win=30720 Len=0		Jul 24, 2018 14:22:19.488911000 India Standard Time	
+HTTP/1.1 200 OK  [TCP segment of a reassembled PDU]		Jul 24, 2018 14:22:19.511600000 India Standard Time	
+80 → 55181 [ACK] Seq=1361 Ack=1005 Win=30720 Len=1360 [TCP segment of a reassembled PDU]		Jul 24, 2018 14:22:19.520309000 India Standard Time	
+55181 → 80 [ACK] Seq=1005 Ack=2721 Win=17408 Len=0		Jul 24, 2018 14:22:19.520537000 India Standard Time	
+80 → 55181 [ACK] Seq=2721 Ack=1005 Win=30720 Len=1360 [TCP segment of a reassembled PDU]		Jul 24, 2018 14:22:19.558217000 India Standard Time	
+[TCP Retransmission] 54918 → 443 [FIN, ACK] Seq=1 Ack=1 Win=63 Len=0		Jul 24, 2018 14:22:19.564306000 India Standard Time	
+80 → 55181 [ACK] Seq=4081 Ack=1005 Win=30720 Len=1360 [TCP segment of a reassembled PDU]		Jul 24, 2018 14:22:19.578875000 India Standard Time	
+55181 → 80 [ACK] Seq=1005 Ack=5441 Win=17408 Len=0		Jul 24, 2018 14:22:19.579053000 India Standard Time	
+80 → 55181 [ACK] Seq=5441 Ack=1005 Win=30720 Len=1360 [TCP segment of a reassembled PDU]		Jul 24, 2018 14:22:19.598202000 India Standard Time	
+80 → 55181 [ACK] Seq=6801 Ack=1005 Win=30720 Len=1360 [TCP segment of a reassembled PDU]		Jul 24, 2018 14:22:19.618103000 India Standard Time	
+55181 → 80 [ACK] Seq=1005 Ack=8161 Win=17408 Len=0		Jul 24, 2018 14:22:19.618291000 India Standard Time	
+80 → 55181 [ACK] Seq=8161 Ack=1005 Win=30720 Len=1360 [TCP segment of a reassembled PDU]		Jul 24, 2018 14:22:19.623900000 India Standard Time	
+80 → 55181 [PSH, ACK] Seq=9521 Ack=1005 Win=30720 Len=1360 [TCP segment of a reassembled PDU]		Jul 24, 2018 14:22:19.641691000 India Standard Time	
+55181 → 80 [ACK] Seq=1005 Ack=10881 Win=17408 Len=0		Jul 24, 2018 14:22:19.641923000 India Standard Time	
+80 → 55181 [ACK] Seq=10881 Ack=1005 Win=30720 Len=1360 [TCP segment of a reassembled PDU]		Jul 24, 2018 14:22:19.680274000 India Standard Time	
+80 → 55181 [ACK] Seq=12241 Ack=1005 Win=30720 Len=1360 [TCP segment of a reassembled PDU]		Jul 24, 2018 14:22:19.681902000 India Standard Time	
+55181 → 80 [ACK] Seq=1005 Ack=13601 Win=17408 Len=0		Jul 24, 2018 14:22:19.682038000 India Standard Time	
+443 → 55178 [SYN, ACK] Seq=0 Ack=1 Win=8190 Len=0 MSS=1330		Jul 24, 2018 14:22:19.685306000 India Standard Time	
+55178 → 443 [ACK] Seq=1 Ack=1 Win=17520 Len=0		Jul 24, 2018 14:22:19.685388000 India Standard Time	
+443 → 55180 [SYN, ACK] Seq=0 Ack=1 Win=8190 Len=0 MSS=1330		Jul 24, 2018 14:22:19.685480000 India Standard Time	
+55180 → 443 [ACK] Seq=1 Ack=1 Win=17520 Len=0		Jul 24, 2018 14:22:19.685553000 India Standard Time	
+443 → 55179 [SYN, ACK] Seq=0 Ack=1 Win=8190 Len=0 MSS=1330		Jul 24, 2018 14:22:19.686235000 India Standard Time	
+55179 → 443 [ACK] Seq=1 Ack=1 Win=17520 Len=0		Jul 24, 2018 14:22:19.686319000 India Standard Time	
+Client Hello		Jul 24, 2018 14:22:19.689979000 India Standard Time	
+Client Hello		Jul 24, 2018 14:22:19.690136000 India Standard Time	
+Client Hello		Jul 24, 2018 14:22:19.690195000 India Standard Time	
+80 → 55181 [ACK] Seq=13601 Ack=1005 Win=30720 Len=1360 [TCP segment of a reassembled PDU]		Jul 24, 2018 14:22:19.698280000 India Standard Time	
+80 → 55181 [ACK] Seq=14961 Ack=1005 Win=30720 Len=1360 [TCP segment of a reassembled PDU]		Jul 24, 2018 14:22:19.719268000 India Standard Time	
+55181 → 80 [ACK] Seq=1005 Ack=16321 Win=17408 Len=0		Jul 24, 2018 14:22:19.719443000 India Standard Time	
+80 → 55181 [ACK] Seq=16321 Ack=1005 Win=30720 Len=1360 [TCP segment of a reassembled PDU]		Jul 24, 2018 14:22:19.722311000 India Standard Time	
+80 → 55181 [ACK] Seq=17681 Ack=1005 Win=30720 Len=1360 [TCP segment of a reassembled PDU]		Jul 24, 2018 14:22:19.740324000 India Standard Time	
+55181 → 80 [ACK] Seq=1005 Ack=19041 Win=17408 Len=0		Jul 24, 2018 14:22:19.740496000 India Standard Time	
+80 → 55181 [ACK] Seq=19041 Ack=1005 Win=30720 Len=1360 [TCP segment of a reassembled PDU]		Jul 24, 2018 14:22:19.762364000 India Standard Time	
+80 → 55181 [PSH, ACK] Seq=20401 Ack=1005 Win=30720 Len=1360 [TCP segment of a reassembled PDU]		Jul 24, 2018 14:22:19.764044000 India Standard Time	
+55181 → 80 [ACK] Seq=1005 Ack=21761 Win=17408 Len=0		Jul 24, 2018 14:22:19.764190000 India Standard Time	
+80 → 55181 [ACK] Seq=21761 Ack=1005 Win=30720 Len=1360 [TCP segment of a reassembled PDU]		Jul 24, 2018 14:22:19.779873000 India Standard Time	
+80 → 55181 [ACK] Seq=23121 Ack=1005 Win=30720 Len=1360 [TCP segment of a reassembled PDU]		Jul 24, 2018 14:22:19.784049000 India Standard Time	
+55181 → 80 [ACK] Seq=1005 Ack=24481 Win=17408 Len=0		Jul 24, 2018 14:22:19.784189000 India Standard Time	
+80 → 55181 [ACK] Seq=24481 Ack=1005 Win=30720 Len=1360 [TCP segment of a reassembled PDU]		Jul 24, 2018 14:22:19.801857000 India Standard Time	
+80 → 55181 [ACK] Seq=25841 Ack=1005 Win=30720 Len=1360 [TCP segment of a reassembled PDU]		Jul 24, 2018 14:22:19.818080000 India Standard Time	
+55181 → 80 [ACK] Seq=1005 Ack=27201 Win=17408 Len=0		Jul 24, 2018 14:22:19.818255000 India Standard Time	
+80 → 55181 [ACK] Seq=27201 Ack=1005 Win=30720 Len=1360 [TCP segment of a reassembled PDU]		Jul 24, 2018 14:22:19.850599000 India Standard Time	
+80 → 55181 [ACK] Seq=28561 Ack=1005 Win=30720 Len=1360 [TCP segment of a reassembled PDU]		Jul 24, 2018 14:22:19.851978000 India Standard Time	
+55181 → 80 [ACK] Seq=1005 Ack=29921 Win=17408 Len=0		Jul 24, 2018 14:22:19.852275000 India Standard Time	
+80 → 55181 [ACK] Seq=29921 Ack=1005 Win=30720 Len=1360 [TCP segment of a reassembled PDU]		Jul 24, 2018 14:22:19.859989000 India Standard Time	
+80 → 55181 [ACK] Seq=31281 Ack=1005 Win=30720 Len=1360 [TCP segment of a reassembled PDU]		Jul 24, 2018 14:22:19.862557000 India Standard Time	
+55181 → 80 [ACK] Seq=1005 Ack=32641 Win=17408 Len=0		Jul 24, 2018 14:22:19.862763000 India Standard Time	
+80 → 55181 [ACK] Seq=32641 Ack=1005 Win=30720 Len=1360 [TCP segment of a reassembled PDU]		Jul 24, 2018 14:22:19.881924000 India Standard Time	
+80 → 55181 [ACK] Seq=34001 Ack=1005 Win=30720 Len=1360 [TCP segment of a reassembled PDU]		Jul 24, 2018 14:22:19.900045000 India Standard Time	
+55181 → 80 [ACK] Seq=1005 Ack=35361 Win=17408 Len=0		Jul 24, 2018 14:22:19.900320000 India Standard Time	
+80 → 55181 [ACK] Seq=35361 Ack=1005 Win=30720 Len=1360 [TCP segment of a reassembled PDU]		Jul 24, 2018 14:22:19.904319000 India Standard Time	
+HTTP/1.1 200 OK  (text/html)	http	Jul 24, 2018 14:22:19.905646000 India Standard Time	
+55181 → 80 [ACK] Seq=1005 Ack=37726 Win=17408 Len=0		Jul 24, 2018 14:22:19.905888000 India Standard Time	
+[TCP segment of a reassembled PDU]		Jul 24, 2018 14:22:20.006630000 India Standard Time	
+443 → 55178 [PSH, ACK] Seq=1331 Ack=518 Win=34654 Len=1330 [TCP segment of a reassembled PDU]		Jul 24, 2018 14:22:20.013178000 India Standard Time	
+Server Hello, Certificate		Jul 24, 2018 14:22:20.013182000 India Standard Time	
+Server Key Exchange, Server Hello Done		Jul 24, 2018 14:22:20.013183000 India Standard Time	
+55178 → 443 [ACK] Seq=518 Ack=3832 Win=17520 Len=0		Jul 24, 2018 14:22:20.013407000 India Standard Time	
+Client Key Exchange, Change Cipher Spec, Encrypted Handshake Message		Jul 24, 2018 14:22:20.022150000 India Standard Time	
+[TCP segment of a reassembled PDU]		Jul 24, 2018 14:22:20.033687000 India Standard Time	
+443 → 55180 [PSH, ACK] Seq=1331 Ack=518 Win=34654 Len=1330 [TCP segment of a reassembled PDU]		Jul 24, 2018 14:22:20.040101000 India Standard Time	
+55180 → 443 [ACK] Seq=518 Ack=2661 Win=17520 Len=0		Jul 24, 2018 14:22:20.040275000 India Standard Time	
+Server Hello, Certificate		Jul 24, 2018 14:22:20.042071000 India Standard Time	
+Server Key Exchange, Server Hello Done		Jul 24, 2018 14:22:20.043739000 India Standard Time	
+55180 → 443 [ACK] Seq=518 Ack=3832 Win=16349 Len=0		Jul 24, 2018 14:22:20.043867000 India Standard Time	
+Client Key Exchange, Change Cipher Spec, Encrypted Handshake Message		Jul 24, 2018 14:22:20.046229000 India Standard Time	
+Standard query 0xb992 A static.bbci.co.uk		Jul 24, 2018 14:22:20.063981000 India Standard Time	
+[TCP segment of a reassembled PDU]		Jul 24, 2018 14:22:20.108388000 India Standard Time	
+443 → 55179 [PSH, ACK] Seq=1331 Ack=518 Win=34654 Len=1330 [TCP segment of a reassembled PDU]		Jul 24, 2018 14:22:20.112698000 India Standard Time	
+55179 → 443 [ACK] Seq=518 Ack=2661 Win=17520 Len=0		Jul 24, 2018 14:22:20.112841000 India Standard Time	
+Server Hello, Certificate		Jul 24, 2018 14:22:20.114311000 India Standard Time	
+Server Key Exchange, Server Hello Done		Jul 24, 2018 14:22:20.117171000 India Standard Time	
+55179 → 443 [ACK] Seq=518 Ack=3832 Win=16349 Len=0		Jul 24, 2018 14:22:20.117314000 India Standard Time	
+Client Key Exchange, Change Cipher Spec, Encrypted Handshake Message		Jul 24, 2018 14:22:20.119606000 India Standard Time	
+[TCP Retransmission] 54530 → 443 [FIN, ACK] Seq=1 Ack=1 Win=65 Len=0		Jul 24, 2018 14:22:20.344994000 India Standard Time	
+Standard query response 0xb992 A static.bbci.co.uk CNAME static-bbci.bbc.net.uk CNAME static.bbci.co.uk.edgekey.net CNAME e3891.dscf.akamaiedge.net A 104.114.80.64		Jul 24, 2018 14:22:20.346419000 India Standard Time	
+443 → 55178 [ACK] Seq=3832 Ack=644 Win=34528 Len=0		Jul 24, 2018 14:22:20.346632000 India Standard Time	
+Change Cipher Spec, Encrypted Handshake Message		Jul 24, 2018 14:22:20.346633000 India Standard Time	
+55182 → 80 [SYN] Seq=0 Win=17520 Len=0 MSS=1460 WS=256 SACK_PERM=1		Jul 24, 2018 14:22:20.347043000 India Standard Time	
+443 → 55180 [ACK] Seq=3832 Ack=644 Win=34528 Len=0		Jul 24, 2018 14:22:20.377910000 India Standard Time	
+55178 → 443 [ACK] Seq=644 Ack=3883 Win=17469 Len=0		Jul 24, 2018 14:22:20.387099000 India Standard Time	
+Change Cipher Spec, Encrypted Handshake Message		Jul 24, 2018 14:22:20.389760000 India Standard Time	
+80 → 55182 [SYN, ACK] Seq=0 Ack=1 Win=29200 Len=0 MSS=1360 SACK_PERM=1 WS=128		Jul 24, 2018 14:22:20.412030000 India Standard Time	
+55182 → 80 [ACK] Seq=1 Ack=1 Win=17408 Len=0		Jul 24, 2018 14:22:20.412148000 India Standard Time	
+GET /frameworks/requirejs/lib.js HTTP/1.1 	http	Jul 24, 2018 14:22:20.415189000 India Standard Time	
+Standard query 0xf7ef A logx.optimizely.com		Jul 24, 2018 14:22:20.420947000 India Standard Time	
+443 → 55179 [ACK] Seq=3832 Ack=644 Win=34528 Len=0		Jul 24, 2018 14:22:20.422751000 India Standard Time	
+Change Cipher Spec, Encrypted Handshake Message		Jul 24, 2018 14:22:20.426983000 India Standard Time	
+55180 → 443 [ACK] Seq=644 Ack=3883 Win=16298 Len=0		Jul 24, 2018 14:22:20.430236000 India Standard Time	
+55179 → 443 [ACK] Seq=644 Ack=3883 Win=16298 Len=0		Jul 24, 2018 14:22:20.467348000 India Standard Time	
+80 → 55182 [ACK] Seq=1 Ack=438 Win=30336 Len=0		Jul 24, 2018 14:22:20.526842000 India Standard Time	
+HTTP/1.1 304 Not Modified 	http	Jul 24, 2018 14:22:20.541984000 India Standard Time	
+Standard query response 0xf7ef A logx.optimizely.com CNAME p13nlog-1106815646.us-east-1.elb.amazonaws.com A 54.174.169.159 A 54.164.74.111 A 54.156.246.141 A 54.164.178.102 A 54.164.0.122 A 54.173.7.177 A 54.152.181.221 A 54.210.3.197 NS ns-1119.awsdns-11.org NS ns-1793.awsdns-32.co.uk NS ns-235.awsdns-29.com NS ns-934.awsdns-52.net		Jul 24, 2018 14:22:20.569247000 India Standard Time	
+55183 → 443 [SYN] Seq=0 Win=17520 Len=0 MSS=1460 WS=256 SACK_PERM=1		Jul 24, 2018 14:22:20.570168000 India Standard Time	
+55185 → 443 [SYN] Seq=0 Win=17520 Len=0 MSS=1460 WS=256 SACK_PERM=1		Jul 24, 2018 14:22:20.570168000 India Standard Time	
+55184 → 443 [SYN] Seq=0 Win=17520 Len=0 MSS=1460 WS=256 SACK_PERM=1		Jul 24, 2018 14:22:20.570177000 India Standard Time	
+55182 → 80 [ACK] Seq=438 Ack=272 Win=17152 Len=0		Jul 24, 2018 14:22:20.581390000 India Standard Time	
+Standard query 0xf72a A fig.bbc.co.uk		Jul 24, 2018 14:22:20.582627000 India Standard Time	
+Standard query response 0xf72a A fig.bbc.co.uk CNAME fig.bbc.net.uk CNAME bbc.map.fastly.net A 151.101.156.81 NS ns1.fastly.net NS ns2.fastly.net NS ns3.fastly.net NS ns4.fastly.net		Jul 24, 2018 14:22:20.655987000 India Standard Time	
+55187 → 443 [SYN] Seq=0 Win=17520 Len=0 MSS=1460 WS=256 SACK_PERM=1		Jul 24, 2018 14:22:20.656654000 India Standard Time	
+443 → 55187 [SYN, ACK] Seq=0 Ack=1 Win=28240 Len=0 MSS=1360 SACK_PERM=1 WS=512		Jul 24, 2018 14:22:20.724494000 India Standard Time	
+55187 → 443 [ACK] Seq=1 Ack=1 Win=17408 Len=0		Jul 24, 2018 14:22:20.724616000 India Standard Time	
+Client Hello		Jul 24, 2018 14:22:20.726316000 India Standard Time	
+443 → 55187 [ACK] Seq=1 Ack=518 Win=29696 Len=0		Jul 24, 2018 14:22:20.814043000 India Standard Time	
+Server Hello, Change Cipher Spec, Encrypted Handshake Message		Jul 24, 2018 14:22:20.814044000 India Standard Time	
+Change Cipher Spec, Encrypted Handshake Message		Jul 24, 2018 14:22:20.814938000 India Standard Time	
+Application Data		Jul 24, 2018 14:22:20.827951000 India Standard Time	
+Application Data		Jul 24, 2018 14:22:20.828404000 India Standard Time	
+443 → 55184 [SYN, ACK] Seq=0 Ack=1 Win=29200 Len=0 MSS=1360 SACK_PERM=1 WS=256		Jul 24, 2018 14:22:20.869866000 India Standard Time	
+443 → 55185 [SYN, ACK] Seq=0 Ack=1 Win=29200 Len=0 MSS=1360 SACK_PERM=1 WS=256		Jul 24, 2018 14:22:20.869867000 India Standard Time	
+55184 → 443 [ACK] Seq=1 Ack=1 Win=17408 Len=0		Jul 24, 2018 14:22:20.870051000 India Standard Time	
+55185 → 443 [ACK] Seq=1 Ack=1 Win=17408 Len=0		Jul 24, 2018 14:22:20.870170000 India Standard Time	
+443 → 55183 [SYN, ACK] Seq=0 Ack=1 Win=29200 Len=0 MSS=1360 SACK_PERM=1 WS=256		Jul 24, 2018 14:22:20.871469000 India Standard Time	
+55183 → 443 [ACK] Seq=1 Ack=1 Win=17408 Len=0		Jul 24, 2018 14:22:20.871588000 India Standard Time	
+Client Hello		Jul 24, 2018 14:22:20.874392000 India Standard Time	
+Client Hello		Jul 24, 2018 14:22:20.874396000 India Standard Time	
+Client Hello		Jul 24, 2018 14:22:20.874969000 India Standard Time	
+443 → 55187 [ACK] Seq=155 Ack=662 Win=29696 Len=0		Jul 24, 2018 14:22:20.891695000 India Standard Time	
+Application Data		Jul 24, 2018 14:22:20.891696000 India Standard Time	
+Application Data		Jul 24, 2018 14:22:20.892367000 India Standard Time	
+443 → 55187 [ACK] Seq=221 Ack=1048 Win=30720 Len=0		Jul 24, 2018 14:22:20.951734000 India Standard Time	
+443 → 55187 [ACK] Seq=221 Ack=1086 Win=30720 Len=0		Jul 24, 2018 14:22:21.032556000 India Standard Time	
+Application Data		Jul 24, 2018 14:22:21.104193000 India Standard Time	
+55187 → 443 [ACK] Seq=1086 Ack=528 Win=16896 Len=0		Jul 24, 2018 14:22:21.145258000 India Standard Time	
+GET /wwscripts/flag HTTP/1.1 	http	Jul 24, 2018 14:22:21.154120000 India Standard Time	
+443 → 55184 [ACK] Seq=1 Ack=518 Win=30464 Len=0		Jul 24, 2018 14:22:21.190026000 India Standard Time	
+Server Hello		Jul 24, 2018 14:22:21.236262000 India Standard Time	
+55184 → 443 [ACK] Seq=518 Ack=1361 Win=17408 Len=0		Jul 24, 2018 14:22:21.277689000 India Standard Time	
+Certificate [TCP segment of a reassembled PDU]		Jul 24, 2018 14:22:21.279971000 India Standard Time	
+[TCP Retransmission] 54918 → 443 [FIN, ACK] Seq=1 Ack=1 Win=63 Len=0		Jul 24, 2018 14:22:21.281446000 India Standard Time	
+Server Key Exchange, Server Hello Done		Jul 24, 2018 14:22:21.294201000 India Standard Time	
+443 → 55185 [ACK] Seq=1 Ack=518 Win=30464 Len=0		Jul 24, 2018 14:22:21.294203000 India Standard Time	
+55184 → 443 [ACK] Seq=518 Ack=3067 Win=17408 Len=0		Jul 24, 2018 14:22:21.294542000 India Standard Time	
+Client Key Exchange, Change Cipher Spec, Encrypted Handshake Message		Jul 24, 2018 14:22:21.301062000 India Standard Time	
+Server Hello		Jul 24, 2018 14:22:21.366112000 India Standard Time	
+55185 → 443 [ACK] Seq=518 Ack=1361 Win=17408 Len=0		Jul 24, 2018 14:22:21.408163000 India Standard Time	
+Certificate [TCP segment of a reassembled PDU]		Jul 24, 2018 14:22:21.420708000 India Standard Time	
+Server Key Exchange, Server Hello Done		Jul 24, 2018 14:22:21.420710000 India Standard Time	
+443 → 55183 [ACK] Seq=1 Ack=518 Win=30464 Len=0		Jul 24, 2018 14:22:21.420711000 India Standard Time	
+55185 → 443 [ACK] Seq=518 Ack=3067 Win=17408 Len=0		Jul 24, 2018 14:22:21.421120000 India Standard Time	
+Client Key Exchange, Change Cipher Spec, Encrypted Handshake Message		Jul 24, 2018 14:22:21.425217000 India Standard Time	
+[TCP Retransmission] 55181 → 80 [PSH, ACK] Seq=1005 Ack=37726 Win=17408 Len=924		Jul 24, 2018 14:22:21.453832000 India Standard Time	
+Server Hello		Jul 24, 2018 14:22:21.521007000 India Standard Time	
+55183 → 443 [ACK] Seq=518 Ack=1361 Win=17408 Len=0		Jul 24, 2018 14:22:21.560358000 India Standard Time	
+Certificate [TCP segment of a reassembled PDU]		Jul 24, 2018 14:22:21.590324000 India Standard Time	
+Server Key Exchange, Server Hello Done		Jul 24, 2018 14:22:21.590326000 India Standard Time	
+Application Data		Jul 24, 2018 14:22:21.590327000 India Standard Time	
+80 → 55181 [ACK] Seq=37726 Ack=1929 Win=32768 Len=0		Jul 24, 2018 14:22:21.590328000 India Standard Time	
+HTTP/1.1 200 OK  [TCP segment of a reassembled PDU]		Jul 24, 2018 14:22:21.590329000 India Standard Time	
+55183 → 443 [ACK] Seq=518 Ack=3067 Win=17408 Len=0		Jul 24, 2018 14:22:21.591073000 India Standard Time	
+HTTP/1.1 200 OK  (text/javascript)	http	Jul 24, 2018 14:22:21.591381000 India Standard Time	
+55181 → 80 [ACK] Seq=1929 Ack=38338 Win=16896 Len=0		Jul 24, 2018 14:22:21.591611000 India Standard Time	
+[TCP Dup ACK 234#1] 80 → 55181 [ACK] Seq=38338 Ack=1929 Win=32768 Len=0 SLE=1005 SRE=1929		Jul 24, 2018 14:22:21.591783000 India Standard Time	
+Client Key Exchange, Change Cipher Spec, Encrypted Handshake Message		Jul 24, 2018 14:22:21.596015000 India Standard Time	
+Change Cipher Spec, Encrypted Handshake Message		Jul 24, 2018 14:22:21.606156000 India Standard Time	
+55073 → 443 [ACK] Seq=1 Ack=54 Win=67 Len=0		Jul 24, 2018 14:22:21.631140000 India Standard Time	
+55184 → 443 [ACK] Seq=644 Ack=3118 Win=17408 Len=0		Jul 24, 2018 14:22:21.649432000 India Standard Time	
+Change Cipher Spec, Encrypted Handshake Message		Jul 24, 2018 14:22:21.728091000 India Standard Time	
+55185 → 443 [ACK] Seq=644 Ack=3118 Win=17408 Len=0		Jul 24, 2018 14:22:21.773424000 India Standard Time	
+Change Cipher Spec, Encrypted Handshake Message		Jul 24, 2018 14:22:21.969070000 India Standard Time	
+55183 → 443 [ACK] Seq=644 Ack=3118 Win=17408 Len=0		Jul 24, 2018 14:22:22.010156000 India Standard Time	
+Standard query 0x55ae A bbc.gscontxt.net		Jul 24, 2018 14:22:22.015039000 India Standard Time	
+GET / HTTP/1.1 	http	Jul 24, 2018 14:22:22.022328000 India Standard Time	
+Standard query 0xa708 A www.googletagservices.com		Jul 24, 2018 14:22:22.105317000 India Standard Time	
+80 → 55181 [ACK] Seq=38338 Ack=2897 Win=34816 Len=0		Jul 24, 2018 14:22:22.134457000 India Standard Time	
+HTTP/1.1 304 Not Modified 	http	Jul 24, 2018 14:22:22.134458000 India Standard Time	
+Standard query response 0x55ae A bbc.gscontxt.net CNAME bbc-apsing.gscontxt.net A 52.220.64.54 NS ns4.p27.dynect.net NS ns1.p27.dynect.net NS ns3.p27.dynect.net NS ns2.p27.dynect.net		Jul 24, 2018 14:22:22.150438000 India Standard Time	
+55207 → 443 [SYN] Seq=0 Win=17520 Len=0 MSS=1460 WS=256 SACK_PERM=1		Jul 24, 2018 14:22:22.160306000 India Standard Time	
+55208 → 443 [SYN] Seq=0 Win=17520 Len=0 MSS=1460 WS=256 SACK_PERM=1		Jul 24, 2018 14:22:22.160469000 India Standard Time	
+55209 → 443 [SYN] Seq=0 Win=17520 Len=0 MSS=1460 WS=256 SACK_PERM=1		Jul 24, 2018 14:22:22.163937000 India Standard Time	
+55181 → 80 [ACK] Seq=2897 Ack=38736 Win=16384 Len=0		Jul 24, 2018 14:22:22.175164000 India Standard Time	
+Standard query response 0xa708 A www.googletagservices.com CNAME pagead46.l.doubleclick.net A 172.217.163.194		Jul 24, 2018 14:22:22.177223000 India Standard Time	
+55210 → 80 [SYN] Seq=0 Win=17520 Len=0 MSS=1460 WS=256 SACK_PERM=1		Jul 24, 2018 14:22:22.179243000 India Standard Time	
+80 → 55210 [SYN, ACK] Seq=0 Ack=1 Win=60720 Len=0 MSS=1360 SACK_PERM=1 WS=256		Jul 24, 2018 14:22:22.252136000 India Standard Time	
+55210 → 80 [ACK] Seq=1 Ack=1 Win=17408 Len=0		Jul 24, 2018 14:22:22.252250000 India Standard Time	
+GET /tag/js/gpt.js HTTP/1.1 	http	Jul 24, 2018 14:22:22.254378000 India Standard Time	
+GET /frameworks/requirejs/lib.js HTTP/1.1 	http	Jul 24, 2018 14:22:22.296082000 India Standard Time	
+80 → 55210 [ACK] Seq=1 Ack=407 Win=61952 Len=0		Jul 24, 2018 14:22:22.336003000 India Standard Time	
+HTTP/1.1 304 Not Modified  [TCP segment of a reassembled PDU]		Jul 24, 2018 14:22:22.353834000 India Standard Time	
+Application Data		Jul 24, 2018 14:22:22.368123000 India Standard Time	
+HTTP/1.1 304 Not Modified 	http	Jul 24, 2018 14:22:22.381881000 India Standard Time	
+55210 → 80 [ACK] Seq=407 Ack=337 Win=17152 Len=0		Jul 24, 2018 14:22:22.393663000 India Standard Time	
+55079 → 443 [ACK] Seq=1 Ack=54 Win=67 Len=0		Jul 24, 2018 14:22:22.407553000 India Standard Time	
+55182 → 80 [ACK] Seq=875 Ack=543 Win=16896 Len=0		Jul 24, 2018 14:22:22.422235000 India Standard Time	
+443 → 55208 [SYN, ACK] Seq=0 Ack=1 Win=26883 Len=0 MSS=1360 SACK_PERM=1 WS=256		Jul 24, 2018 14:22:22.489317000 India Standard Time	
+55208 → 443 [ACK] Seq=1 Ack=1 Win=17408 Len=0		Jul 24, 2018 14:22:22.489669000 India Standard Time	
+443 → 55209 [SYN, ACK] Seq=0 Ack=1 Win=26883 Len=0 MSS=1360 SACK_PERM=1 WS=256		Jul 24, 2018 14:22:22.490658000 India Standard Time	
+55209 → 443 [ACK] Seq=1 Ack=1 Win=17408 Len=0		Jul 24, 2018 14:22:22.490777000 India Standard Time	
+443 → 55207 [SYN, ACK] Seq=0 Ack=1 Win=26883 Len=0 MSS=1360 SACK_PERM=1 WS=256		Jul 24, 2018 14:22:22.497124000 India Standard Time	
+55207 → 443 [ACK] Seq=1 Ack=1 Win=17408 Len=0		Jul 24, 2018 14:22:22.497235000 India Standard Time	
+Client Hello		Jul 24, 2018 14:22:22.522866000 India Standard Time	
+Client Hello		Jul 24, 2018 14:22:22.523628000 India Standard Time	
+Client Hello		Jul 24, 2018 14:22:22.525065000 India Standard Time	
+Application Data		Jul 24, 2018 14:22:22.579000000 India Standard Time	
+443 → 55187 [ACK] Seq=528 Ack=1167 Win=30720 Len=0		Jul 24, 2018 14:22:22.644542000 India Standard Time	
+[TCP Retransmission] 54530 → 443 [FIN, ACK] Seq=1 Ack=1 Win=65 Len=0		Jul 24, 2018 14:22:22.744662000 India Standard Time	
+Application Data		Jul 24, 2018 14:22:22.890727000 India Standard Time	
+Server Hello		Jul 24, 2018 14:22:22.890968000 India Standard Time	
+GET /wwscripts/flag HTTP/1.1 	http	Jul 24, 2018 14:22:22.919247000 India Standard Time	
+55209 → 443 [ACK] Seq=518 Ack=1361 Win=17408 Len=0		Jul 24, 2018 14:22:22.931881000 India Standard Time	
+55187 → 443 [ACK] Seq=1167 Ack=666 Win=16640 Len=0		Jul 24, 2018 14:22:22.934344000 India Standard Time	
+443 → 55209 [ACK] Seq=1361 Ack=518 Win=28160 Len=1360 [TCP segment of a reassembled PDU]		Jul 24, 2018 14:22:22.939920000 India Standard Time	
+Certificate, Server Key Exchange, Server Hello Done		Jul 24, 2018 14:22:22.960080000 India Standard Time	
+55209 → 443 [ACK] Seq=518 Ack=3444 Win=17408 Len=0		Jul 24, 2018 14:22:22.960306000 India Standard Time	
+Client Key Exchange, Change Cipher Spec, Encrypted Handshake Message		Jul 24, 2018 14:22:22.963713000 India Standard Time	
+[TCP Previous segment not captured] , Continuation Data		Jul 24, 2018 14:22:23.040671000 India Standard Time	
+[TCP Dup ACK 272#1] 55208 → 443 [ACK] Seq=518 Ack=1 Win=17408 Len=0 SLE=1361 SRE=2721		Jul 24, 2018 14:22:23.040923000 India Standard Time	
+443 → 55208 [PSH, ACK] Seq=2721 Ack=518 Win=28160 Len=723		Jul 24, 2018 14:22:23.080965000 India Standard Time	2e:63:72:6c:30:3d:06:08:2b:06:01:05:05:07:01:01:04:31:30:2f:30:2d:06:08:2b:06:01:05:05:07:30:01:86:21:68:74:74:70:3a:2f:2f:6f:63:73:70:2e:67:6c:6f:62:61:6c:73:69:67:6e:2e:63:6f:6d:2f:72:6f:6f:74:72:31:30:1f:06:03:55:1d:23:04:18:30:16:80:14:60:7b:66:1a:45:0d:97:ca:89:50:2f:7d:04:cd:34:a8:ff:fc:fd:4b:30:0d:06:09:2a:86:48:86:f7:0d:01:01:0b:05:00:03:82:01:01:00:60:40:68:16:47:e7:16:8d:db:5c:a1:56:2a:cb:f4:5c:9b:b0:1e:a2:4b:f5:cb:02:3f:f8:0b:a1:f2:a7:42:d4:b7:4c:eb:e3:66:80:f3:25:43:78:2e:1b:17:56:07:52:18:cb:d1:a8:ec:e6:fb:73:3e:a4:62:8c:80:b4:d2:c5:12:73:a3:d3:fa:02:38:be:63:3d:84:b8:99:c1:f1:ba:f7:9f:c3:40:d1:58:18:53:c1:62:dd:af:18:42:7f:34:4e:c5:43:d5:71:b0:30:00:c7:e3:90:ae:3f:57:86:97:ce:ea:0c:12:8e:22:70:e3:66:a7:54:7f:2e:28:cb:d4:54:d0:b3:1e:62:67:08:f9:27:e1:cb:e3:66:b8:24:1b:89:6a:89:44:65:f2:d9:4c:d2:58:1c:8c:4e:c0:95:a1:d4:ef:67:2f:38:20:e8:2e:ff:96:51:f0:ba:d8:3d:92:70:47:65:1c:9e:73:72:b4:60:0c:5c:e2:d1:73:76:e0:af:4e:e2:e5:37:a5:45:2f:8a:23:3e:87:c7:30:e6:31:38:7c:f4:dd:52:ca:f3:53:04:25:57:56:66:94:e8:0b:ee:e6:03:14:4e:ee:fd:6d:94:64:9e:5e:ce:79:d4:b2:a6:cf:40:b1:44:a8:3e:87:19:5e:e9:f8:21:16:59:53:16:03:03:01:4d:0c:00:01:49:03:00:17:41:04:9d:71:4b:48:1c:95:c5:0e:eb:e1:a0:34:a1:28:40:88:3f:ed:f8:3a:ed:d1:3c:a4:35:4c:e4:3b:7f:7d:7a:a2:ae:78:89:ac:3c:a1:f9:9d:f9:ed:63:92:c3:41:5a:fd:49:ef:0d:bc:65:07:a9:da:f3:fe:47:65:e9:27:c7:1f:06:01:01:00:94:67:91:c0:55:1d:6d:36:c0:f4:c3:84:30:57:77:8f:9b:95:5a:9b:32:2d:3d:c8:35:e3:70:87:b0:13:25:25:17:90:2d:98:65:fb:44:a4:d1:c4:f3:d5:40:8d:1d:75:d2:ef:71:d8:b0:db:63:81:67:9f:41:1f:db:f6:65:ce:d1:41:e7:61:13:21:e6:d5:87:f8:bb:8d:84:c4:c8:a4:8e:83:3c:e0:d7:74:69:44:e6:19:9b:f8:8a:38:e9:1a:56:3c:87:05:ed:b3:38:56:dc:5e:3d:99:ab:49:ab:94:3c:03:da:df:be:e4:4d:fe:2b:ff:51:60:44:a5:aa:2d:d2:02:8f:68:23:df:55:11:b0:66:6f:c7:cf:2c:40:0f:0b:1a:f8:4b:61:ad:dd:32:f5:ce:df:b7:55:9b:f7:ae:f4:64:4a:f4:5a:75:01:8b:94:d0:22:9c:40:68:cd:58:8a:6a:82:d3:b6:b0:5f:2f:d0:99:a7:82:bd:76:b8:4c:19:d9:cf:eb:82:e0:4c:17:8a:7a:b7:c5:16:39:48:b0:42:02:b2:bb:a0:43:e3:f7:76:fa:df:15:9e:aa:5a:f4:a3:e3:b1:0b:0c:dd:c9:0c:65:51:73:9c:8b:a3:bd:3d:e1:db:b9:41:c0:59:b0:94:4a:6e:f0:e9:5a:01:ab:83:16:03:03:00:04:0e:00:00:00
+[TCP Dup ACK 272#2] 55208 → 443 [ACK] Seq=518 Ack=1 Win=17408 Len=0 SLE=1361 SRE=3444		Jul 24, 2018 14:22:23.081209000 India Standard Time	
+[TCP Out-Of-Order] 443 → 55208 [ACK] Seq=1 Ack=518 Win=28160 Len=1360		Jul 24, 2018 14:22:23.141389000 India Standard Time	
+55208 → 443 [ACK] Seq=518 Ack=3444 Win=17408 Len=0		Jul 24, 2018 14:22:23.141700000 India Standard Time	
+Client Key Exchange, Change Cipher Spec, Encrypted Handshake Message		Jul 24, 2018 14:22:23.146002000 India Standard Time	
+Server Hello		Jul 24, 2018 14:22:23.192190000 India Standard Time	
+443 → 55207 [ACK] Seq=1361 Ack=518 Win=28160 Len=1360 [TCP segment of a reassembled PDU]		Jul 24, 2018 14:22:23.202225000 India Standard Time	
+55207 → 443 [ACK] Seq=518 Ack=2721 Win=17408 Len=0		Jul 24, 2018 14:22:23.202841000 India Standard Time	
+Certificate, Server Key Exchange, Server Hello Done		Jul 24, 2018 14:22:23.206239000 India Standard Time	
+Standard query 0xc4a7 A safebrowsing.googleapis.com		Jul 24, 2018 14:22:23.206491000 India Standard Time	
+Client Key Exchange, Change Cipher Spec, Encrypted Handshake Message		Jul 24, 2018 14:22:23.207940000 India Standard Time	
+Application Data		Jul 24, 2018 14:22:23.218297000 India Standard Time	
+80 → 55181 [ACK] Seq=38736 Ack=3821 Win=36864 Len=0		Jul 24, 2018 14:22:23.218298000 India Standard Time	
+[TCP Spurious Retransmission] GET /wwscripts/flag HTTP/1.1 	http	Jul 24, 2018 14:22:23.218366000 India Standard Time	
+Standard query 0xff3d A www.bbc.co.uk		Jul 24, 2018 14:22:23.223092000 India Standard Time	
+55001 → 443 [ACK] Seq=1 Ack=119 Win=64 Len=0		Jul 24, 2018 14:22:23.259442000 India Standard Time	
+Change Cipher Spec, Encrypted Handshake Message		Jul 24, 2018 14:22:23.339219000 India Standard Time	
+[TCP Dup ACK 306#1] 80 → 55181 [ACK] Seq=38736 Ack=3821 Win=36864 Len=0 SLE=2897 SRE=3821		Jul 24, 2018 14:22:23.344425000 India Standard Time	
+[TCP Retransmission] 80 → 55210 [FIN, PSH, ACK] Seq=1 Ack=407 Win=17408 Len=1028		Jul 24, 2018 14:22:23.346254000 India Standard Time	
+[TCP Out-Of-Order] 80 → 55210 [FIN, PSH, ACK] Seq=1 Ack=407 Win=17408 Len=1028		Jul 24, 2018 14:22:23.346256000 India Standard Time	
+[TCP Out-Of-Order] 80 → 55210 [FIN, PSH, ACK] Seq=1 Ack=407 Win=17408 Len=1028		Jul 24, 2018 14:22:23.346257000 India Standard Time	
+[TCP Out-Of-Order] 80 → 55210 [FIN, PSH, ACK] Seq=1 Ack=407 Win=17408 Len=1028		Jul 24, 2018 14:22:23.346258000 India Standard Time	
+[TCP Out-Of-Order] 80 → 55210 [FIN, PSH, ACK] Seq=1 Ack=407 Win=17408 Len=1028		Jul 24, 2018 14:22:23.346263000 India Standard Time	
+[TCP ACKed unseen segment] 55210 → 80 [ACK] Seq=407 Ack=1030 Win=16384 Len=0 SLE=1 SRE=337		Jul 24, 2018 14:22:23.347512000 India Standard Time	
+[TCP Dup ACK 317#1] 55210 → 80 [ACK] Seq=407 Ack=1030 Win=16384 Len=0 SLE=1 SRE=1029		Jul 24, 2018 14:22:23.347741000 India Standard Time	
+[TCP Dup ACK 317#2] 55210 → 80 [ACK] Seq=407 Ack=1030 Win=16384 Len=0 SLE=1 SRE=1029		Jul 24, 2018 14:22:23.347864000 India Standard Time	
+[TCP Dup ACK 317#3] 55210 → 80 [ACK] Seq=407 Ack=1030 Win=16384 Len=0 SLE=1 SRE=1029		Jul 24, 2018 14:22:23.347955000 India Standard Time	
+[TCP Dup ACK 317#4] 55210 → 80 [ACK] Seq=407 Ack=1030 Win=16384 Len=0 SLE=1 SRE=1029		Jul 24, 2018 14:22:23.348048000 India Standard Time	
+Standard query response 0xc4a7 A safebrowsing.googleapis.com A 172.217.163.42		Jul 24, 2018 14:22:23.353289000 India Standard Time	
+Standard query response 0xff3d A www.bbc.co.uk CNAME www.bbc.net.uk A 212.58.249.213 A 212.58.244.71		Jul 24, 2018 14:22:23.353291000 India Standard Time	
+55214 → 443 [SYN] Seq=0 Win=17520 Len=0 MSS=1460 WS=256 SACK_PERM=1		Jul 24, 2018 14:22:23.356958000 India Standard Time	
+55215 → 80 [SYN] Seq=0 Win=17520 Len=0 MSS=1460 WS=256 SACK_PERM=1		Jul 24, 2018 14:22:23.358566000 India Standard Time	
+55216 → 80 [SYN] Seq=0 Win=17520 Len=0 MSS=1460 WS=256 SACK_PERM=1		Jul 24, 2018 14:22:23.367111000 India Standard Time	
+HTTP/1.1 304 Not Modified 	http	Jul 24, 2018 14:22:23.370313000 India Standard Time	
+55209 → 443 [ACK] Seq=644 Ack=3495 Win=17408 Len=0		Jul 24, 2018 14:22:23.379714000 India Standard Time	
+55181 → 80 [ACK] Seq=3821 Ack=39201 Win=17408 Len=0		Jul 24, 2018 14:22:23.410417000 India Standard Time	
+443 → 55214 [SYN, ACK] Seq=0 Ack=1 Win=60720 Len=0 MSS=1360 SACK_PERM=1 WS=256		Jul 24, 2018 14:22:23.464504000 India Standard Time	
+55214 → 443 [ACK] Seq=1 Ack=1 Win=17408 Len=0		Jul 24, 2018 14:22:23.464609000 India Standard Time	
+Client Hello		Jul 24, 2018 14:22:23.470158000 India Standard Time	
+Change Cipher Spec, Encrypted Handshake Message		Jul 24, 2018 14:22:23.477890000 India Standard Time	
+55208 → 443 [ACK] Seq=644 Ack=3495 Win=17408 Len=0		Jul 24, 2018 14:22:23.517879000 India Standard Time	
+Change Cipher Spec, Encrypted Handshake Message		Jul 24, 2018 14:22:23.547749000 India Standard Time	
+443 → 55214 [ACK] Seq=1 Ack=577 Win=61952 Len=0		Jul 24, 2018 14:22:23.552657000 India Standard Time	
+Server Hello, Change Cipher Spec, Encrypted Handshake Message		Jul 24, 2018 14:22:23.552658000 India Standard Time	
+Change Cipher Spec, Encrypted Handshake Message, Encrypted Handshake Message		Jul 24, 2018 14:22:23.553736000 India Standard Time	
+Application Data		Jul 24, 2018 14:22:23.562846000 India Standard Time	
+Application Data		Jul 24, 2018 14:22:23.563092000 India Standard Time	
+55207 → 443 [ACK] Seq=644 Ack=3495 Win=16640 Len=0		Jul 24, 2018 14:22:23.587961000 India Standard Time	
+Application Data		Jul 24, 2018 14:22:23.611539000 India Standard Time	
+Application Data		Jul 24, 2018 14:22:23.613064000 India Standard Time	
+Application Data		Jul 24, 2018 14:22:23.634009000 India Standard Time	
+80 → 55215 [SYN, ACK] Seq=0 Ack=1 Win=29200 Len=0 MSS=1360 SACK_PERM=1 WS=128		Jul 24, 2018 14:22:23.666691000 India Standard Time	
+55215 → 80 [ACK] Seq=1 Ack=1 Win=17408 Len=0		Jul 24, 2018 14:22:23.666995000 India Standard Time	
+GET /idcta/config?callback&locale=en-GB&ptrt=http://www.bbc.com/ HTTP/1.1 	http	Jul 24, 2018 14:22:23.668741000 India Standard Time	
+80 → 55216 [SYN, ACK] Seq=0 Ack=1 Win=29200 Len=0 MSS=1360 SACK_PERM=1 WS=128		Jul 24, 2018 14:22:23.671134000 India Standard Time	
+55216 → 80 [ACK] Seq=1 Ack=1 Win=17408 Len=0		Jul 24, 2018 14:22:23.671298000 India Standard Time	
+GET /idcta/translations?callback&locale=en-GB HTTP/1.1 	http	Jul 24, 2018 14:22:23.672446000 India Standard Time	
+55214 → 443 [ACK] Seq=1622 Ack=268 Win=17152 Len=0		Jul 24, 2018 14:22:23.674350000 India Standard Time	
+Application Data		Jul 24, 2018 14:22:23.709130000 India Standard Time	
+Application Data		Jul 24, 2018 14:22:23.721974000 India Standard Time	
+Application Data		Jul 24, 2018 14:22:23.721975000 India Standard Time	
+55214 → 443 [ACK] Seq=1622 Ack=1065 Win=16384 Len=0		Jul 24, 2018 14:22:23.722138000 India Standard Time	
+Application Data		Jul 24, 2018 14:22:23.722245000 India Standard Time	
+55214 → 443 [ACK] Seq=1622 Ack=1111 Win=16384 Len=0		Jul 24, 2018 14:22:23.722308000 India Standard Time	
+Application Data		Jul 24, 2018 14:22:23.723075000 India Standard Time	
+443 → 55214 [ACK] Seq=1111 Ack=1622 Win=64512 Len=0		Jul 24, 2018 14:22:23.764273000 India Standard Time	
+443 → 55214 [ACK] Seq=1111 Ack=1668 Win=64512 Len=0		Jul 24, 2018 14:22:23.787912000 India Standard Time	
+[TCP Dup ACK 360#1] 443 → 55214 [ACK] Seq=1111 Ack=1668 Win=64512 Len=0		Jul 24, 2018 14:22:23.787913000 India Standard Time	
+80 → 55215 [ACK] Seq=1 Ack=527 Win=30336 Len=0		Jul 24, 2018 14:22:24.120111000 India Standard Time	
+HTTP/1.1 304 Not Modified 	http	Jul 24, 2018 14:22:24.120111000 India Standard Time	
+80 → 55216 [ACK] Seq=1 Ack=458 Win=30336 Len=0		Jul 24, 2018 14:22:24.120111000 India Standard Time	
+HTTP/1.1 304 Not Modified 	http	Jul 24, 2018 14:22:24.120112000 India Standard Time	
+GET /idcta/config?callback&locale=en-GB&ptrt=http://www.bbc.com/ HTTP/1.1 	http	Jul 24, 2018 14:22:24.126908000 India Standard Time	
+55216 → 80 [ACK] Seq=458 Ack=109 Win=17408 Len=0		Jul 24, 2018 14:22:24.161171000 India Standard Time	
+Standard query 0xff77 A emp.bbci.co.uk		Jul 24, 2018 14:22:24.438814000 India Standard Time	
+HTTP/1.1 304 Not Modified 	http	Jul 24, 2018 14:22:24.446239000 India Standard Time	
+Standard query 0x6b76 A ichef.bbci.co.uk		Jul 24, 2018 14:22:24.474383000 India Standard Time	
+55215 → 80 [ACK] Seq=1053 Ack=583 Win=16896 Len=0		Jul 24, 2018 14:22:24.486951000 India Standard Time	
+GET /favicon.ico HTTP/1.1 	http	Jul 24, 2018 14:22:24.626840000 India Standard Time	
+[TCP Retransmission] 54918 → 443 [FIN, ACK] Seq=1 Ack=1 Win=63 Len=0		Jul 24, 2018 14:22:24.714303000 India Standard Time	
+80 → 55181 [ACK] Seq=39201 Ack=4720 Win=38912 Len=0		Jul 24, 2018 14:22:24.754332000 India Standard Time	
+HTTP/1.1 200 OK  (image/x-icon)	http	Jul 24, 2018 14:22:24.754333000 India Standard Time	
+55181 → 80 [ACK] Seq=4720 Ack=39983 Win=16640 Len=0		Jul 24, 2018 14:22:24.794411000 India Standard Time	
+M-SEARCH * HTTP/1.1 		Jul 24, 2018 14:22:24.840530000 India Standard Time	
+Standard query 0xff77 A emp.bbci.co.uk		Jul 24, 2018 14:22:24.939492000 India Standard Time	
+Standard query 0x6b76 A ichef.bbci.co.uk		Jul 24, 2018 14:22:24.974743000 India Standard Time	
+[TCP segment of a reassembled PDU]		Jul 24, 2018 14:22:24.979981000 India Standard Time	
+Application Data		Jul 24, 2018 14:22:25.002189000 India Standard Time	
+55079 → 443 [ACK] Seq=1 Ack=2635 Win=68 Len=0		Jul 24, 2018 14:22:25.002384000 India Standard Time	
+[TCP segment of a reassembled PDU]		Jul 24, 2018 14:22:25.053959000 India Standard Time	
+55073 → 443 [ACK] Seq=1 Ack=1414 Win=68 Len=0		Jul 24, 2018 14:22:25.095539000 India Standard Time	
+Application Data		Jul 24, 2018 14:22:25.100167000 India Standard Time	
+Standard query response 0xff77 A emp.bbci.co.uk CNAME emp.bbci.co.uk.edgekey.net CNAME e3891.dscf.akamaiedge.net A 104.114.80.64		Jul 24, 2018 14:22:25.103028000 India Standard Time	
+55219 → 80 [SYN] Seq=0 Win=17520 Len=0 MSS=1460 WS=256 SACK_PERM=1		Jul 24, 2018 14:22:25.104547000 India Standard Time	
+Standard query response 0x6b76 A ichef.bbci.co.uk CNAME ichef-bbci.bbc.net.uk CNAME ichef.bbci.co.uk.edgekey.net CNAME e3891.dscf.akamaiedge.net A 104.114.80.64		Jul 24, 2018 14:22:25.119689000 India Standard Time	
+55220 → 80 [SYN] Seq=0 Win=17520 Len=0 MSS=1460 WS=256 SACK_PERM=1		Jul 24, 2018 14:22:25.121273000 India Standard Time	
+55073 → 443 [ACK] Seq=1 Ack=2635 Win=63 Len=0		Jul 24, 2018 14:22:25.142113000 India Standard Time	
+80 → 55219 [SYN, ACK] Seq=0 Ack=1 Win=29200 Len=0 MSS=1360 SACK_PERM=1 WS=128		Jul 24, 2018 14:22:25.171185000 India Standard Time	
+55219 → 80 [ACK] Seq=1 Ack=1 Win=17408 Len=0		Jul 24, 2018 14:22:25.171331000 India Standard Time	
+GET /emp/bump-3/bump-3.js HTTP/1.1 	http	Jul 24, 2018 14:22:25.176434000 India Standard Time	
+80 → 55220 [SYN, ACK] Seq=0 Ack=1 Win=29200 Len=0 MSS=1360 SACK_PERM=1 WS=128		Jul 24, 2018 14:22:25.188214000 India Standard Time	
+55220 → 80 [ACK] Seq=1 Ack=1 Win=17408 Len=0		Jul 24, 2018 14:22:25.188337000 India Standard Time	
+GET /wwhp/624/cpsprodpb/EE77/production/_102674016_p06flf6t.jpg HTTP/1.1 	http	Jul 24, 2018 14:22:25.193598000 India Standard Time	
+80 → 55219 [ACK] Seq=1 Ack=442 Win=30336 Len=0		Jul 24, 2018 14:22:25.262468000 India Standard Time	
+HTTP/1.1 304 Not Modified 	http	Jul 24, 2018 14:22:25.264452000 India Standard Time	
+80 → 55220 [ACK] Seq=1 Ack=417 Win=30336 Len=0		Jul 24, 2018 14:22:25.302051000 India Standard Time	
+55219 → 80 [ACK] Seq=442 Ack=445 Win=16896 Len=0		Jul 24, 2018 14:22:25.304562000 India Standard Time	
+HTTP/1.1 200 OK  [TCP segment of a reassembled PDU]		Jul 24, 2018 14:22:25.322270000 India Standard Time	
+80 → 55220 [ACK] Seq=1361 Ack=417 Win=30336 Len=1360 [TCP segment of a reassembled PDU]		Jul 24, 2018 14:22:25.344523000 India Standard Time	
+55220 → 80 [ACK] Seq=417 Ack=2721 Win=17408 Len=0		Jul 24, 2018 14:22:25.345171000 India Standard Time	
+80 → 55220 [ACK] Seq=2721 Ack=417 Win=30336 Len=1360 [TCP segment of a reassembled PDU]		Jul 24, 2018 14:22:25.380753000 India Standard Time	
+80 → 55220 [ACK] Seq=4081 Ack=417 Win=30336 Len=1360 [TCP segment of a reassembled PDU]		Jul 24, 2018 14:22:25.400797000 India Standard Time	
+55220 → 80 [ACK] Seq=417 Ack=5441 Win=17408 Len=0		Jul 24, 2018 14:22:25.400973000 India Standard Time	
+80 → 55220 [ACK] Seq=5441 Ack=417 Win=30336 Len=1360 [TCP segment of a reassembled PDU]		Jul 24, 2018 14:22:25.418253000 India Standard Time	
+80 → 55220 [ACK] Seq=6801 Ack=417 Win=30336 Len=1360 [TCP segment of a reassembled PDU]		Jul 24, 2018 14:22:25.440690000 India Standard Time	
+55220 → 80 [ACK] Seq=417 Ack=8161 Win=17408 Len=0		Jul 24, 2018 14:22:25.440914000 India Standard Time	
+80 → 55220 [ACK] Seq=8161 Ack=417 Win=30336 Len=1360 [TCP segment of a reassembled PDU]		Jul 24, 2018 14:22:25.478493000 India Standard Time	
+80 → 55220 [ACK] Seq=9521 Ack=417 Win=30336 Len=1360 [TCP segment of a reassembled PDU]		Jul 24, 2018 14:22:25.481997000 India Standard Time	
+55220 → 80 [ACK] Seq=417 Ack=10881 Win=17408 Len=0		Jul 24, 2018 14:22:25.482166000 India Standard Time	
+80 → 55220 [ACK] Seq=10881 Ack=417 Win=30336 Len=1360 [TCP segment of a reassembled PDU]		Jul 24, 2018 14:22:25.502557000 India Standard Time	
+80 → 55220 [ACK] Seq=12241 Ack=417 Win=30336 Len=1360 [TCP segment of a reassembled PDU]		Jul 24, 2018 14:22:25.522125000 India Standard Time	
+55220 → 80 [ACK] Seq=417 Ack=13601 Win=17408 Len=0		Jul 24, 2018 14:22:25.522319000 India Standard Time	
+80 → 55220 [ACK] Seq=13601 Ack=417 Win=30336 Len=1360 [TCP segment of a reassembled PDU]		Jul 24, 2018 14:22:25.538666000 India Standard Time	
+80 → 55220 [ACK] Seq=14961 Ack=417 Win=30336 Len=1360 [TCP segment of a reassembled PDU]		Jul 24, 2018 14:22:25.559059000 India Standard Time	
+55220 → 80 [ACK] Seq=417 Ack=16321 Win=17408 Len=0		Jul 24, 2018 14:22:25.559367000 India Standard Time	
+80 → 55220 [ACK] Seq=16321 Ack=417 Win=30336 Len=1360 [TCP segment of a reassembled PDU]		Jul 24, 2018 14:22:25.578323000 India Standard Time	
+80 → 55220 [PSH, ACK] Seq=17681 Ack=417 Win=30336 Len=1360 [TCP segment of a reassembled PDU]		Jul 24, 2018 14:22:25.583843000 India Standard Time	
+55220 → 80 [ACK] Seq=417 Ack=19041 Win=17408 Len=0		Jul 24, 2018 14:22:25.584047000 India Standard Time	
+80 → 55220 [ACK] Seq=19041 Ack=417 Win=30336 Len=1360 [TCP segment of a reassembled PDU]		Jul 24, 2018 14:22:25.614443000 India Standard Time	
+80 → 55220 [ACK] Seq=20401 Ack=417 Win=30336 Len=1360 [TCP segment of a reassembled PDU]		Jul 24, 2018 14:22:25.618476000 India Standard Time	
+55220 → 80 [ACK] Seq=417 Ack=21761 Win=17408 Len=0		Jul 24, 2018 14:22:25.618706000 India Standard Time	
+80 → 55220 [ACK] Seq=21761 Ack=417 Win=30336 Len=1360 [TCP segment of a reassembled PDU]		Jul 24, 2018 14:22:25.624478000 India Standard Time	
+80 → 55220 [ACK] Seq=23121 Ack=417 Win=30336 Len=1360 [TCP segment of a reassembled PDU]		Jul 24, 2018 14:22:25.640520000 India Standard Time	
+55220 → 80 [ACK] Seq=417 Ack=24481 Win=17408 Len=0		Jul 24, 2018 14:22:25.640753000 India Standard Time	
+80 → 55220 [ACK] Seq=24481 Ack=417 Win=30336 Len=1360 [TCP segment of a reassembled PDU]		Jul 24, 2018 14:22:25.658169000 India Standard Time	
+80 → 55220 [ACK] Seq=25841 Ack=417 Win=30336 Len=1360 [TCP segment of a reassembled PDU]		Jul 24, 2018 14:22:25.662433000 India Standard Time	
+55220 → 80 [ACK] Seq=417 Ack=27201 Win=17408 Len=0		Jul 24, 2018 14:22:25.662879000 India Standard Time	
+HTTP/1.1 200 OK  (JPEG JFIF image)	http	Jul 24, 2018 14:22:25.664078000 India Standard Time	
+55230 → 443 [SYN] Seq=0 Win=17520 Len=0 MSS=1460 WS=256 SACK_PERM=1		Jul 24, 2018 14:22:25.669452000 India Standard Time	
+Standard query 0x5f06 A gel.files.bbci.co.uk		Jul 24, 2018 14:22:25.669986000 India Standard Time	
+55220 → 80 [ACK] Seq=417 Ack=27899 Win=16640 Len=0		Jul 24, 2018 14:22:25.704164000 India Standard Time	
+443 → 55230 [SYN, ACK] Seq=0 Ack=1 Win=29200 Len=0 MSS=1360 SACK_PERM=1 WS=128		Jul 24, 2018 14:22:25.770392000 India Standard Time	
+55230 → 443 [ACK] Seq=1 Ack=1 Win=17408 Len=0		Jul 24, 2018 14:22:25.770544000 India Standard Time	
+Client Hello		Jul 24, 2018 14:22:25.782839000 India Standard Time	
+Standard query response 0x5f06 A gel.files.bbci.co.uk CNAME gel.files.bbci.co.uk.edgekey.net CNAME e3891.dscf.akamaiedge.net A 104.114.80.64		Jul 24, 2018 14:22:25.818151000 India Standard Time	
+55231 → 443 [SYN] Seq=0 Win=17520 Len=0 MSS=1460 WS=256 SACK_PERM=1		Jul 24, 2018 14:22:25.818838000 India Standard Time	
+M-SEARCH * HTTP/1.1 		Jul 24, 2018 14:22:25.840977000 India Standard Time	
+443 → 55230 [ACK] Seq=1 Ack=518 Win=30336 Len=0		Jul 24, 2018 14:22:25.851739000 India Standard Time	
+Server Hello		Jul 24, 2018 14:22:25.876442000 India Standard Time	
+443 → 55230 [ACK] Seq=1361 Ack=518 Win=30336 Len=1360 [TCP segment of a reassembled PDU]		Jul 24, 2018 14:22:25.896360000 India Standard Time	
+Certificate, Server Key Exchange, Server Hello Done		Jul 24, 2018 14:22:25.896361000 India Standard Time	
+55230 → 443 [ACK] Seq=518 Ack=3344 Win=17408 Len=0		Jul 24, 2018 14:22:25.896512000 India Standard Time	
+443 → 55231 [SYN, ACK] Seq=0 Ack=1 Win=29200 Len=0 MSS=1360 SACK_PERM=1 WS=128		Jul 24, 2018 14:22:25.899362000 India Standard Time	
+55231 → 443 [ACK] Seq=1 Ack=1 Win=17408 Len=0		Jul 24, 2018 14:22:25.899465000 India Standard Time	
+Client Key Exchange, Change Cipher Spec, Encrypted Handshake Message		Jul 24, 2018 14:22:25.910071000 India Standard Time	
+Client Hello		Jul 24, 2018 14:22:25.930064000 India Standard Time	
+New Session Ticket, Change Cipher Spec, Encrypted Handshake Message		Jul 24, 2018 14:22:26.015784000 India Standard Time	
+443 → 55231 [ACK] Seq=1 Ack=518 Win=30336 Len=0		Jul 24, 2018 14:22:26.041536000 India Standard Time	
+Server Hello		Jul 24, 2018 14:22:26.043963000 India Standard Time	
+443 → 55231 [ACK] Seq=1361 Ack=518 Win=30336 Len=1360 [TCP segment of a reassembled PDU]		Jul 24, 2018 14:22:26.046188000 India Standard Time	
+55231 → 443 [ACK] Seq=518 Ack=2721 Win=17408 Len=0		Jul 24, 2018 14:22:26.046335000 India Standard Time	
+55230 → 443 [ACK] Seq=644 Ack=3586 Win=17152 Len=0		Jul 24, 2018 14:22:26.055312000 India Standard Time	
+Certificate, Server Key Exchange, Server Hello Done		Jul 24, 2018 14:22:26.057078000 India Standard Time	
+Client Key Exchange, Change Cipher Spec, Encrypted Handshake Message		Jul 24, 2018 14:22:26.058823000 India Standard Time	
+New Session Ticket, Change Cipher Spec, Encrypted Handshake Message		Jul 24, 2018 14:22:26.133844000 India Standard Time	
+55231 → 443 [ACK] Seq=644 Ack=3602 Win=16384 Len=0		Jul 24, 2018 14:22:26.175278000 India Standard Time	
+GET /favicon.ico HTTP/1.1 	http	Jul 24, 2018 14:22:26.310515000 India Standard Time	
+HTTP/1.1 200 OK  (image/x-icon)	http	Jul 24, 2018 14:22:26.410082000 India Standard Time	
+55181 → 80 [ACK] Seq=5619 Ack=40765 Win=17408 Len=0		Jul 24, 2018 14:22:26.450220000 India Standard Time	
+M-SEARCH * HTTP/1.1 		Jul 24, 2018 14:22:26.842301000 India Standard Time	
+[TCP Retransmission] 54530 → 443 [FIN, ACK] Seq=1 Ack=1 Win=65 Len=0		Jul 24, 2018 14:22:27.545537000 India Standard Time	
+M-SEARCH * HTTP/1.1 		Jul 24, 2018 14:22:27.843192000 India Standard Time	
+Encrypted Alert		Jul 24, 2018 14:22:28.420270000 India Standard Time	
+443 → 55209 [FIN, ACK] Seq=3526 Ack=644 Win=28160 Len=0		Jul 24, 2018 14:22:28.432106000 India Standard Time	
+55209 → 443 [ACK] Seq=644 Ack=3527 Win=17408 Len=0		Jul 24, 2018 14:22:28.432173000 India Standard Time	
+55209 → 443 [FIN, ACK] Seq=644 Ack=3527 Win=17408 Len=0		Jul 24, 2018 14:22:28.432341000 India Standard Time	
+[TCP Previous segment not captured] 443 → 55208 [FIN, ACK] Seq=3526 Ack=644 Win=28160 Len=0		Jul 24, 2018 14:22:28.477795000 India Standard Time	
+[TCP Out-Of-Order] 443 → 55208 [PSH, ACK] Seq=3495 Ack=644 Win=28160 Len=31		Jul 24, 2018 14:22:28.477796000 India Standard Time	
+[TCP Dup ACK 334#1] 55208 → 443 [ACK] Seq=644 Ack=3495 Win=17408 Len=0		Jul 24, 2018 14:22:28.478002000 India Standard Time	
+55208 → 443 [ACK] Seq=644 Ack=3527 Win=17408 Len=0		Jul 24, 2018 14:22:28.478252000 India Standard Time	
+55208 → 443 [FIN, ACK] Seq=644 Ack=3527 Win=17408 Len=0		Jul 24, 2018 14:22:28.479197000 India Standard Time	
+Encrypted Alert		Jul 24, 2018 14:22:28.544044000 India Standard Time	
+443 → 55207 [FIN, ACK] Seq=3526 Ack=644 Win=28160 Len=0		Jul 24, 2018 14:22:28.547256000 India Standard Time	
+55207 → 443 [ACK] Seq=644 Ack=3527 Win=16640 Len=0		Jul 24, 2018 14:22:28.547388000 India Standard Time	
+55207 → 443 [FIN, ACK] Seq=644 Ack=3527 Win=16640 Len=0		Jul 24, 2018 14:22:28.547881000 India Standard Time	
+443 → 55209 [ACK] Seq=3527 Ack=645 Win=28160 Len=0		Jul 24, 2018 14:22:29.034834000 India Standard Time	
+443 → 55208 [ACK] Seq=3527 Ack=645 Win=28160 Len=0		Jul 24, 2018 14:22:29.034835000 India Standard Time	
+443 → 55207 [ACK] Seq=3527 Ack=645 Win=28160 Len=0		Jul 24, 2018 14:22:29.034836000 India Standard Time	
+55178 → 443 [FIN, ACK] Seq=644 Ack=3883 Win=17469 Len=0		Jul 24, 2018 14:22:30.992418000 India Standard Time	
+55180 → 443 [FIN, ACK] Seq=644 Ack=3883 Win=16298 Len=0		Jul 24, 2018 14:22:30.993538000 India Standard Time	
+55179 → 443 [FIN, ACK] Seq=644 Ack=3883 Win=16298 Len=0		Jul 24, 2018 14:22:30.996495000 India Standard Time	
+55237 → 443 [SYN] Seq=0 Win=17520 Len=0 MSS=1460 WS=256 SACK_PERM=1		Jul 24, 2018 14:22:31.002398000 India Standard Time	
+443 → 55237 [SYN, ACK] Seq=0 Ack=1 Win=60720 Len=0 MSS=1360 SACK_PERM=1 WS=256		Jul 24, 2018 14:22:31.075677000 India Standard Time	
+55237 → 443 [ACK] Seq=1 Ack=1 Win=17408 Len=0		Jul 24, 2018 14:22:31.075965000 India Standard Time	
+Client Hello		Jul 24, 2018 14:22:31.082347000 India Standard Time	
+443 → 55237 [ACK] Seq=1 Ack=528 Win=61952 Len=0		Jul 24, 2018 14:22:31.287512000 India Standard Time	
+Server Hello, Change Cipher Spec, Encrypted Handshake Message		Jul 24, 2018 14:22:31.287732000 India Standard Time	
+443 → 55178 [FIN, ACK] Seq=3883 Ack=645 Win=34528 Len=0		Jul 24, 2018 14:22:31.287944000 India Standard Time	
+55178 → 443 [ACK] Seq=645 Ack=3884 Win=17469 Len=0		Jul 24, 2018 14:22:31.288062000 India Standard Time	
+Change Cipher Spec, Encrypted Handshake Message		Jul 24, 2018 14:22:31.289034000 India Standard Time	
+Application Data		Jul 24, 2018 14:22:31.294349000 India Standard Time	
+Application Data		Jul 24, 2018 14:22:31.295459000 India Standard Time	
+[TCP segment of a reassembled PDU]		Jul 24, 2018 14:22:31.295950000 India Standard Time	
+Application Data		Jul 24, 2018 14:22:31.295968000 India Standard Time	
+443 → 55180 [FIN, ACK] Seq=3883 Ack=645 Win=34528 Len=0		Jul 24, 2018 14:22:31.303824000 India Standard Time	
+55180 → 443 [ACK] Seq=645 Ack=3884 Win=16298 Len=0		Jul 24, 2018 14:22:31.304049000 India Standard Time	
+443 → 55179 [FIN, ACK] Seq=3883 Ack=645 Win=34528 Len=0		Jul 24, 2018 14:22:31.364584000 India Standard Time	
