@@ -12,7 +12,7 @@ for session in sessions:
     http_payload = ""
     for packet in sessions[session]:
         try:
-            if packet[TCP].dport == 80 or packet[TCP].sport == 80:
+            if packet[TCP].dport == 88 or packet[TCP].sport == 88:
                 print packet[TCP].payload
         except:
             pass
