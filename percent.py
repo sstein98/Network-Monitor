@@ -12,7 +12,7 @@ for session in sessions:
     http_payload = ""
     for packet in sessions[session]:
         try:
-            if packet[TCP].dport == 80 or packet[TCP].sport == 80:
-                print packet[TCP].payload
+            if packet[TCP].dport == 80 or packet[TCP].sport == 80:              #This port is to identify http requests
+                print(:HTTP: ",packet[TCP].payload)
         except:
             pass
